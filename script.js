@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', () => {
-    alert('Bienvenido a mi sitio web!');
+    alert('Bienvenido al mundo del copete!');
 });
